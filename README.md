@@ -1,4 +1,6 @@
-## Hi there 👋
+## 📝 Latest Tistory Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 <!--
 **peterlee13795/peterlee13795** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
