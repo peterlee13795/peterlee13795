@@ -1,5 +1,10 @@
 ## 📝 Latest Tistory Posts
 <!-- BLOG-POST-LIST:START -->
+- [4. 처리율 제한](https://dev999.tistory.com/10)
+- [레디스 기초 지식 정리](https://dev999.tistory.com/9)
+- [성능 최적화](https://dev999.tistory.com/8)
+- [MySQL 엔진](https://dev999.tistory.com/7)
+- [test 페이지](https://dev999.tistory.com/pages/test-%ED%8E%98%EC%9D%B4%EC%A7%80)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
